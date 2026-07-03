@@ -57,6 +57,11 @@ statistics, selected tracks, and app settings are stored on the device.
 Do not share exported app data publicly if you consider your lap history,
 network settings, or racing profile private.
 
+## Support
+
+If RaceDash helped you, you can support the project with a donation:
+[paypal.me/lmirel](https://paypal.me/lmirel)
+
 ## License
 
 RaceDash is distributed as a release binary. Project-specific material is
